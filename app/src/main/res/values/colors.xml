@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#FF0F0F1B</color>
+    <color name="panel_bg">#FF1B1B2E</color>
+    <color name="text_light">#FFFFFFFF</color>
+    <color name="accent">#FF00E5FF</color>
+    <color name="btn_bg">#FF2A2A40</color>
+    <color name="btn_bg_pressed">#FF3A3A5A</color>
+</resources>
